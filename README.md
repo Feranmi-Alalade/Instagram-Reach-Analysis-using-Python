@@ -10,3 +10,4 @@ This project is to help content creators and business owners make good use of th
 # Data Collection
 I have been researching Instagam over a couple of months, the data used in this project was collected manually from three handmade footwear stores in Nigeria,
 namely Kuil Shoes, Smithbespokeshoes and D'noir Shoes.
+# This project is still in process
